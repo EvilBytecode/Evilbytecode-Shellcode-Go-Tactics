@@ -37,4 +37,4 @@ Demonstrates malicious code injection via memory mapping into remote processes.
 Focuses on hijacking threads in remote system processes to execute malicious code.
 
 ### Threadless Injection
-Demonstrates threadless injection using Rust, where shellcode is injected without creating a new thread.
+Demonstrates threadless injection using Go & C, where shellcode is injected without creating a new thread.
